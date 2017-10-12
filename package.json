@@ -1,6 +1,7 @@
 {
   "main": "ckeditor.js",
   "name": "ckeditor",
+  "version": "4.7.3",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rutcreate/ckeditor4-for-vuejs.git"
