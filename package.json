@@ -1,0 +1,8 @@
+{
+  "main": "ckeditor.js",
+  "name": "ckeditor",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rutcreate/ckeditor4-for-vuejs.git"
+  },
+}
